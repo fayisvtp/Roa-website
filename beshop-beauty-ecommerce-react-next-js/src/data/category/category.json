@@ -1,0 +1,17 @@
+[
+  {
+    "categoryId": "necklace",
+    "name": " Necklace",
+    "image": "/assets/img/top-categories-img1.jpg"
+  },
+  {
+    "categoryId": "bangles",
+    "name": "Bangles",
+    "image": "/assets/img/top-categories-img2.jpg"
+  },
+  {
+    "categoryId": "rings",
+    "name": "Rings",
+    "image": "/assets/img/top-categories-img3.jpg"
+  }
+]

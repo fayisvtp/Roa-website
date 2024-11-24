@@ -1,0 +1,77 @@
+[
+  {
+    "title": "About",
+    "navLinks": [
+      {
+        "name": "About us",
+        "path": "/"
+      },
+      {
+        "name": "Categories",
+        "path": "/"
+      },
+      {
+        "name": "Shop",
+        "path": "/"
+      },
+      {
+        "name": "Blog",
+        "path": "/"
+      },
+      {
+        "name": "FAQ",
+        "path": "/"
+      },
+      {
+        "name": "Contacts",
+        "path": "/"
+      }
+    ]
+  },
+  {
+    "title": "Categories",
+    "navLinks": [
+      {
+        "name": "Necklace",
+        "path": "/"
+      },
+      {
+        "name": "BANGLES",
+        "path": "/"
+      },
+      {
+        "name": "RINGS",
+        "path": "/"
+      }
+    ]
+  },
+  {
+    "title": "Useful links",
+    "navLinks": [
+      {
+        "name": "Careers",
+        "path": "/"
+      },
+      {
+        "name": "Privacy policy",
+        "path": "/"
+      },
+      {
+        "name": "Terms of use",
+        "path": "/"
+      },
+      {
+        "name": "Support",
+        "path": "/"
+      },
+      {
+        "name": "Shipping details",
+        "path": "/"
+      },
+      {
+        "name": "Information",
+        "path": "/"
+      }
+    ]
+  }
+]
