@@ -1,4 +1,4 @@
-import { Profile } from 'components/Profile/Profile';
+// import { Profile } from 'components/Profile/Profile';
 import { PublicLayout } from 'layout/PublicLayout';
 
 const breadcrumbsData = [
@@ -6,15 +6,15 @@ const breadcrumbsData = [
     label: 'Home',
     path: '/',
   },
-  {
-    label: 'My Profile',
-    path: '/profile',
-  },
+  // {
+  //   label: 'My Profile',
+  //   path: '/profile',
+  // },
 ];
 const ProfilePage = () => {
   return (
     <PublicLayout breadcrumb={breadcrumbsData} breadcrumbTitle='My Profile'>
-      <Profile />
+      {/* <Profile /> */}
     </PublicLayout>
   );
 };
